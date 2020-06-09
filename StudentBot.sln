@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentBotCore", "src\StudentBotCore\StudentBotCore.csproj", "{110E72DD-54E3-4055-8BC8-6D260268A595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleTemplateModel", "src\ScheduleTemplateModel\ScheduleTemplateModel.csproj", "{75008E59-B34B-4400-BE9C-D4F10962EF82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110E72DD-54E3-4055-8BC8-6D260268A595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110E72DD-54E3-4055-8BC8-6D260268A595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110E72DD-54E3-4055-8BC8-6D260268A595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110E72DD-54E3-4055-8BC8-6D260268A595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75008E59-B34B-4400-BE9C-D4F10962EF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75008E59-B34B-4400-BE9C-D4F10962EF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75008E59-B34B-4400-BE9C-D4F10962EF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75008E59-B34B-4400-BE9C-D4F10962EF82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A904A682-022A-4E9A-A993-30D25B1D79BF}
+	EndGlobalSection
+EndGlobal
